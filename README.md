@@ -1,5 +1,5 @@
 # Repositorio_R
-Conjunto de datos en Lenguaje R.
+Conjunto de datos en Lenguaje de Programación de R y RStudio como IDE
 
 *Con Salomón Salinas Cruces*
 
